@@ -2,13 +2,17 @@
 title: "Introduction to Spatial Analysis in R"
 date: November 23, 2023
 format: revealjs
+title-slide-attributes: 
+  data-background-image: ResBazQLD2023.png
+  data-background-size: 30%
+  data-background-position: 50% 98%
 ---
 
 ## Workshop Goals
 
 - Introduce processing visualization, and mapping spatial data in R
 - Learn popular spatial packages: sf, terra
-- Troubelshoot common problems
+- Troubleshoot common problems
 
 
 ## Your Instructors
@@ -17,18 +21,18 @@ format: revealjs
 
 ::: {.column width="50%"}
 #### Dr Christina Buelow
-![](images/Christina_Buelow.png)
+![](Christina_Buelow.png)
 
 
 #### Dr Felipe Suarez-Castro
-![](images/andres_felipe_suarez-castro.jpg){width="195" height="195"}
+![](andres_felipe_suarez-castro.jpg){width="195" height="195"}
 
 Australian Rivers Institute, Griffith University
 :::
 
 ::: {.column width="50%"}
 #### Nicholas Wiggins
-![](images/nicholas_wiggins.png){width="195" height="195"}
+![](nicholas_wiggins.png){width="195" height="195"}
 
 UQ Library
 :::
